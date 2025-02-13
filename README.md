@@ -27,9 +27,13 @@ I’m thrilled to showcase an interactive Power BI dashboard that analyzes Blink
 🎨 Design Approach: The dashboard follows Blinkit’s yellow-themed color palette, embodying energy and optimism. Key data segments are color-coded for clarity, ensuring a visually engaging and intuitive user interface.
 
 🛠️ Steps I Took: 
+
 1️⃣ Data Preparation & Modeling: Cleaned and transformed data in Power BI. 
+
 2️⃣ Visualization: Designed compelling charts, graphs, and KPI cards. 
+
 3️⃣ Custom Filters: Enhanced user experience with dynamic filters. 
+
 4️⃣ Theming & Design: Used Blinkits branding elements for consistency.
 
 📂 Data Source: Data was sourced from Excel files, pre-processed in Power BI for analysis.
